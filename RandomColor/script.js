@@ -1,3 +1,4 @@
+// logic of js behind random color generator 
 const getcolor =()=>{
     const randomnumber= Math.floor(Math.random()*16777215);
     //Math.floor(Math.random()*16777215);
